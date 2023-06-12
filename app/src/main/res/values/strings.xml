@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">FOCUS</string>
+
+    // tela cadastro do responsavel
+    <string name="cadas">Cadastro do responsavel</string>
+    <string name="nome">Digite seu nome</string>
+    <string name="email">Digite seu email</string>
+    <string name="datanas">Data de Nascimento</string>
+    <string name="senha">Senha</string>
+    <string name="jacadas">Já possuo cadastro</string>
+
+    // botoes
+    <string name="prox">PRÓXIMO</string>
+    <string name="CADAST">CADASTRAR</string>
+
+
+    // tela cadastro usuario
+    <string name="cadasU">CADASTRO DO USUARIO</string>
+    <string name="comorbidade">Comorbidade</string>
+    <string name="infocomorbidade">Informe a comorbidade do usuário</string>
+    <string name="autismo">Autismo</string>
+    <string name="tdah">TDAH</string>
+    <string name="outros">Outros</string>
+
+    // tela login
+
+    <string name="Login">LOGIN</string>
+
+
+    //jogo da velha
+
+    <string name="JV">Novo jogo</string>
+    <string name="voltar">Voltar</string>
+
+    //tela jogos e tarefas
+    <string name="voltarJ">Voltar</string>
+    <string name="Jogos">JOGOS</string>
+    <string name="tarefas">TAREFAS</string>
+    <string name="Jdv">JOGO DA VELHA</string>
+    <string name="jdm">JOGO DA MEMÓRIA</string>
+    <string name="numeros">APRENDENDO OS NÚMEROS</string>
+    <string name="frases">INDICANDO O NOME</string>
+
+
+    //tarefa frases
+
+    <string name="inicio">VAMOS INFORMAR OS NOMES?</string>
+    <string name="limpar">RECOMEÇAR</string>
+    <string name="conf">CONFERIR</string>
+
+
+    <string name="titulo">Escolha a imagem com ordem correta dos números</string>
+
+
+</resources>
